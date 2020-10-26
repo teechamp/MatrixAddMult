@@ -1,0 +1,11 @@
+C:\codebitsacademy\C-Sharp\LabTask7\MatrixAdd\bin\Debug\netcoreapp3.1\MatrixAdd.exe
+C:\codebitsacademy\C-Sharp\LabTask7\MatrixAdd\bin\Debug\netcoreapp3.1\MatrixAdd.deps.json
+C:\codebitsacademy\C-Sharp\LabTask7\MatrixAdd\bin\Debug\netcoreapp3.1\MatrixAdd.runtimeconfig.json
+C:\codebitsacademy\C-Sharp\LabTask7\MatrixAdd\bin\Debug\netcoreapp3.1\MatrixAdd.runtimeconfig.dev.json
+C:\codebitsacademy\C-Sharp\LabTask7\MatrixAdd\bin\Debug\netcoreapp3.1\MatrixAdd.dll
+C:\codebitsacademy\C-Sharp\LabTask7\MatrixAdd\bin\Debug\netcoreapp3.1\MatrixAdd.pdb
+C:\codebitsacademy\C-Sharp\LabTask7\MatrixAdd\obj\Debug\netcoreapp3.1\MatrixAdd.csprojAssemblyReference.cache
+C:\codebitsacademy\C-Sharp\LabTask7\MatrixAdd\obj\Debug\netcoreapp3.1\MatrixAdd.AssemblyInfoInputs.cache
+C:\codebitsacademy\C-Sharp\LabTask7\MatrixAdd\obj\Debug\netcoreapp3.1\MatrixAdd.AssemblyInfo.cs
+C:\codebitsacademy\C-Sharp\LabTask7\MatrixAdd\obj\Debug\netcoreapp3.1\MatrixAdd.dll
+C:\codebitsacademy\C-Sharp\LabTask7\MatrixAdd\obj\Debug\netcoreapp3.1\MatrixAdd.pdb
