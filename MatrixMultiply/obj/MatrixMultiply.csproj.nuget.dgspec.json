@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\codebitsacademy\\C-Sharp\\LabTask7\\MatrixMultiply\\MatrixMultiply.csproj": {}
+    "C:\\codebitsacademy\\C-Sharp\\LABTASK7\\MatrixMultiply\\MatrixMultiply.csproj": {}
   },
   "projects": {
-    "C:\\codebitsacademy\\C-Sharp\\LabTask7\\MatrixMultiply\\MatrixMultiply.csproj": {
+    "C:\\codebitsacademy\\C-Sharp\\LABTASK7\\MatrixMultiply\\MatrixMultiply.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\codebitsacademy\\C-Sharp\\LabTask7\\MatrixMultiply\\MatrixMultiply.csproj",
+        "projectUniqueName": "C:\\codebitsacademy\\C-Sharp\\LABTASK7\\MatrixMultiply\\MatrixMultiply.csproj",
         "projectName": "MatrixMultiply",
-        "projectPath": "C:\\codebitsacademy\\C-Sharp\\LabTask7\\MatrixMultiply\\MatrixMultiply.csproj",
+        "projectPath": "C:\\codebitsacademy\\C-Sharp\\LABTASK7\\MatrixMultiply\\MatrixMultiply.csproj",
         "packagesPath": "C:\\Users\\23480\\.nuget\\packages\\",
-        "outputPath": "C:\\codebitsacademy\\C-Sharp\\LabTask7\\MatrixMultiply\\obj\\",
+        "outputPath": "C:\\codebitsacademy\\C-Sharp\\LABTASK7\\MatrixMultiply\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\23480\\AppData\\Roaming\\NuGet\\NuGet.Config"

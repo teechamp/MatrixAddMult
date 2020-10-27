@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\codebitsacademy\\C-Sharp\\LabTask7\\MatrixAdd\\MatrixAdd.csproj": {}
+    "C:\\codebitsacademy\\C-Sharp\\LABTASK7\\MatrixAdd\\MatrixAdd.csproj": {}
   },
   "projects": {
-    "C:\\codebitsacademy\\C-Sharp\\LabTask7\\MatrixAdd\\MatrixAdd.csproj": {
+    "C:\\codebitsacademy\\C-Sharp\\LABTASK7\\MatrixAdd\\MatrixAdd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\codebitsacademy\\C-Sharp\\LabTask7\\MatrixAdd\\MatrixAdd.csproj",
+        "projectUniqueName": "C:\\codebitsacademy\\C-Sharp\\LABTASK7\\MatrixAdd\\MatrixAdd.csproj",
         "projectName": "MatrixAdd",
-        "projectPath": "C:\\codebitsacademy\\C-Sharp\\LabTask7\\MatrixAdd\\MatrixAdd.csproj",
+        "projectPath": "C:\\codebitsacademy\\C-Sharp\\LABTASK7\\MatrixAdd\\MatrixAdd.csproj",
         "packagesPath": "C:\\Users\\23480\\.nuget\\packages\\",
-        "outputPath": "C:\\codebitsacademy\\C-Sharp\\LabTask7\\MatrixAdd\\obj\\",
+        "outputPath": "C:\\codebitsacademy\\C-Sharp\\LABTASK7\\MatrixAdd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\23480\\AppData\\Roaming\\NuGet\\NuGet.Config"

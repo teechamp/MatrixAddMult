@@ -13,23 +13,16 @@ namespace MatrixAdd
 
             int[] arr = new int[6];
 
-            for (int i = 0, j = 0; i < b.Length; i++, j++)
+            for (int i = 0; i < a.Length; i++)
 
             {
 
-                arr[i] = a[i] + b[j];                             
+                arr[i] = a[i] + b[i];   
+                
+                 Console.Write(arr[i] + " ");  
+                                        
 
             }
-
-            for (int i = 0; i < arr.Length; i++)
-
-            {
-
-                Console.Write(arr[i] + " ");
-
-            }
-
-            Console.Read();
 
         }
     }
